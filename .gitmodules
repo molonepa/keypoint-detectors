@@ -1,0 +1,9 @@
+[submodule "modules/disk"]
+	path = modules/disk
+	url = https://github.com/nurenda-technologies/disk.git
+[submodule "modules/silk"]
+	path = modules/silk
+	url = https://github.com/nurenda-technologies/silk.git
+[submodule "modules/superglue"]
+	path = modules/superglue
+	url = https://github.com/nurenda-technologies/SuperGlue.git
